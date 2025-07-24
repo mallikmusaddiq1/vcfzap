@@ -4,14 +4,14 @@
 
 ---
 
-![License](https://img.shields.io/github/license/mallikmusaddiq1/vcfzap)
-![Python Version](https://img.shields.io/pypi/pyversions/vcfzap)
-![PyPI Version](https://img.shields.io/pypi/v/vcfzap)
-![PyPI Downloads](https://img.shields.io/pypi/dm/vcfzap)
-![Stars](https://img.shields.io/github/stars/mallikmusaddiq1/vcfzap)
-![Last Commit](https://img.shields.io/github/last-commit/mallikmusaddiq1/vcfzap)
-![Code Size](https://img.shields.io/github/languages/code-size/mallikmusaddiq1/vcfzap)
-![Top Language](https://img.shields.io/github/languages/top/mallikmusaddiq1/vcfzap)
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/vcfzap?color=blue&label=PyPI&logo=pypi&style=flat-square">
+  <img src="https://img.shields.io/pypi/dm/vcfzap?color=orange&label=Downloads&logo=python&style=flat-square">
+  <img src="https://img.shields.io/github/license/mallikmusaddiq1/vcfzap?style=flat-square&color=green">
+  <img src="https://img.shields.io/github/stars/mallikmusaddiq1/vcfzap?style=flat-square&label=Stars&color=yellow">
+  <img src="https://img.shields.io/github/last-commit/mallikmusaddiq1/vcfzap?style=flat-square&color=purple">
+  <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-blue?style=flat-square">
+</p>
 
 ---
 
