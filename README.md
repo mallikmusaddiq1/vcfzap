@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/license/mallikmusaddiq1/vcfzap?style=flat-square&color=green">
   <img src="https://img.shields.io/github/stars/mallikmusaddiq1/vcfzap?style=flat-square&label=Stars&color=yellow">
   <img src="https://img.shields.io/github/last-commit/mallikmusaddiq1/vcfzap?style=flat-square&color=purple">
+  <img src="https://img.shields.io/github/languages/top/mallikmusaddiq1/vcfzap?style=flat-square&color=blueviolet">
+  <img src="https://img.shields.io/github/languages/code-size/mallikmusaddiq1/vcfzap?style=flat-square&color=teal">
   <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-blue?style=flat-square">
 </p>
 
