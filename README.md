@@ -1,5 +1,7 @@
 # vcfzap
 
+vcfzap - Extract contacts from VCF files to CSV, TXT, JSON, HTML, SQLite, or terminal preview.
+
 ---
 
 <p align="center">
@@ -15,6 +17,7 @@
 </p>
 
 ---
+
 ## 📌 Overview
 
 **vcfzap** is a high-performance, feature-rich command-line tool that extracts contact information from VCF (vCard) files and exports it into multiple formats: CSV, TXT, JSON, HTML, SQLite, or a color-coded terminal preview. Whether you're a developer, sysadmin, or power user, vcfzap makes contact extraction seamless and efficient.
