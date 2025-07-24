@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/pypi/v/vcfzap?color=blue&label=PyPI&logo=pypi&style=flat-square">
   <img src="https://img.shields.io/pypi/dm/vcfzap?color=orange&label=Downloads&logo=python&style=flat-square">
+  <img src="https://static.pepy.tech/badge/vcfzap" alt="Total Downloads">
   <img src="https://img.shields.io/github/license/mallikmusaddiq1/vcfzap?style=flat-square&color=green">
   <img src="https://img.shields.io/github/stars/mallikmusaddiq1/vcfzap?style=flat-square&label=Stars&color=yellow">
   <img src="https://img.shields.io/github/last-commit/mallikmusaddiq1/vcfzap?style=flat-square&color=purple">
