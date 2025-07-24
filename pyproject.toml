@@ -1,6 +1,6 @@
 [project]
 name = "vcfzap"
-version = "1.0.0"
+version = "1.2.0"
 description = "A lightning-fast VCF contact extractor to CSV, TXT, JSON, HTML, SQLite, or terminal preview"
 readme = "README.md"
 requires-python = ">=3.6"
