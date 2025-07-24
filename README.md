@@ -1,13 +1,17 @@
+# vcfzap
+
+**vcfzap** is a high-performance, feature-rich command-line tool that extracts contact information from VCF (vCard) files and exports it into multiple formats: CSV, TXT, JSON, HTML, SQLite, or a color-coded terminal preview. Whether you're a developer, sysadmin, or power user, vcfzap makes contact extraction seamless and efficient.
+
+---
+
 ![License](https://img.shields.io/github/license/mallikmusaddiq1/vcfzap)
 ![Python Version](https://img.shields.io/pypi/pyversions/vcfzap)
+![PyPI Version](https://img.shields.io/pypi/v/vcfzap)
+![PyPI Downloads](https://img.shields.io/pypi/dm/vcfzap)
 ![Stars](https://img.shields.io/github/stars/mallikmusaddiq1/vcfzap)
 ![Last Commit](https://img.shields.io/github/last-commit/mallikmusaddiq1/vcfzap)
 ![Code Size](https://img.shields.io/github/languages/code-size/mallikmusaddiq1/vcfzap)
 ![Top Language](https://img.shields.io/github/languages/top/mallikmusaddiq1/vcfzap)
-
-# vcfzap
-
-**vcfzap** is a high-performance, feature-rich command-line tool that extracts contact information from VCF (vCard) files and exports it into multiple formats: CSV, TXT, JSON, HTML, SQLite, or a color-coded terminal preview. Whether you're a developer, sysadmin, or power user, vcfzap makes contact extraction seamless and efficient.
 
 ---
 
