@@ -50,7 +50,7 @@ except ImportError:
     print("Error: Missing 'colorama' module. Install it using: pip install colorama", file=sys.stderr)
     sys.exit(1)
 
-__version__ = "1.0.0"
+__version__ = "1.2.0"
 DEFAULT_ENCODING = "utf-8"
 VALID_FIELDS = {"name", "phone", "email", "address", "organization"}
 VALID_CSV_DELIMITERS = ",;:|^"
